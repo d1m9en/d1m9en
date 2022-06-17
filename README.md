@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital currencies, erc20's and nfts all through learning about bitcoin;
 - 🌱 I’m currently learning javascript whilst working as a full time chef in one of the countries finest restaurants;
 - 💞️ I’m looking to collaborate on bitcoin protocol development, lighting network, taproot, sharding.
-- 📫 How to reach me lunchkitchen@rustenvrede.com or d1m9en@protonmail.com
+- 📫 How to reach me d1m9en@protonmail.com
 
 <!---
 d1m9en/d1m9en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
