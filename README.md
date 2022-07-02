@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d1m9en;
 - 👀 I’m interested in digital currencies, erc20's and nfts all through learning about bitcoin;
-- 🌱 I’m currently learning javascript whilst working as a full time chef in one of the countries finest restaurants;
+- 🌱 I’m currently learning cs50 whilst working as a full time chef in one of the countries finest restaurants;
 - 💞️ I’m looking to collaborate on bitcoin protocol development, lighting network, taproot, sharding.
 - 📫 How to reach me d1m9en@protonmail.com
 
