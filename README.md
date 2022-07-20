@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @d1m9en;
-- 👀 I’m interested in bitcoin, blockchain, web 3.0 all through learning about code;
-- 🌱 I’m currently learning cs50 whilst working as a full time chef in one of the countries finest restaurants;
-- 💞️ I’m looking to collaborate on bitcoin protocol development, lighting network, taproot, sharding.
-- 📫 How to reach me d1m9en@protonmail.com
+- 👀 I’m interested in bitcoin, blockchains, web 3.0 all through learning code;
+- 🌱 I’m currently learning cs50 whilst working part-time as a chef in South Africa;
+- 💞️ I would like to collaborate on different projects in various challenges using different languages. I would like to learn more about bitcoin, protocol development, lighting network, taproot and sharding.
+- 📫 You can reach me at email address: d1m9en@protonmail.com
 
 <!---
 d1m9en/d1m9en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
